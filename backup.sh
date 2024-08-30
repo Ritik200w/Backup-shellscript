@@ -1,6 +1,6 @@
 #!/bin/bash
 
-<< 'readme'
+<< readme
 This is a script for backup 
 
 usage:
